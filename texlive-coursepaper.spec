@@ -6,7 +6,7 @@
 # catalog-version 2.0
 Name:		texlive-coursepaper
 Version:	2.0
-Release:	3
+Release:	4
 Summary:	Prepare university course papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coursepaper
